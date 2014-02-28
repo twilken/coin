@@ -16,9 +16,15 @@ body {
 	padding: 10px;
 }
 
-#container:active {
-	border: 3px;
+#container:hover {
+	border: 1px	;
 	border-color: #ffffff;
-	border-style: dashed;
+	border-style: solid;
+}
+
+#container:active {
+	border: 9px;
+	border-color: #ffffff;
+	border-style: solid;
 }
 
