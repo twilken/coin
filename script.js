@@ -1,6 +1,6 @@
 window.onload = init;
 
-const heads = "heads.jpg"
+const heads = "heads.png"
 const tails = "tails.png"
 
 function throwCoin() {
